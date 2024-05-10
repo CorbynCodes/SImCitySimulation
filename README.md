@@ -1,2 +1,2 @@
 # SimCitySimulation
-A project with a group. I develop a Godzilla simulation that destroys building at random.
+A project with a group. I developed a Godzilla simulation that destroys building at random.
