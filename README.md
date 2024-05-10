@@ -13,6 +13,14 @@ Required files for compile
 7. industrial.h 
 8. zone.cpp
 9. zone.h
+10. Godzilla.cpp
+11. Godzilla.h
+12. Enviromental.cpp
+13. Enviromental.h
+14. Landfill.cpp
+15. Landfill.h
+16. Hospital.cpp
+17. Hospital.h
 
 Instructions for compile
 ------------------------
