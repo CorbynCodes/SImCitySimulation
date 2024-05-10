@@ -17,6 +17,8 @@ Required files for compile
 11. Godzilla.h
 12. Enviromental.cpp
 13. Enviromental.h
+14. Landfill.cpp
+15. Landfill.h
 
 Instructions for compile
 ------------------------
